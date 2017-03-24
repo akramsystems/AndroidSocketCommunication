@@ -7,3 +7,6 @@ communication protocols between two android devices.
 You can change the IP address and Port number of your IP and Port of the wireless network you are 
 running your android devices on
 
+The ClientSocket2 is used as the Client Device
+
+The SocketServer2 is used as your main Server Device (Host)
